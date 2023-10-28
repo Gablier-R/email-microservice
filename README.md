@@ -2,9 +2,9 @@
 
 Email Microservice is a simple and scalable email sending service developed using Spring Boot.
 
-At the moment there is an application that is consuming this service, it is, if you want to check it out.
+   
+At the moment there is an application that is consuming this service, it is: https://github.com/Gablier-R/api-collections-movies if you want to check it out.
 
-   https://github.com/Gablier-R/api-collections-movies
 
 
 ## Functionalities
