@@ -4,8 +4,6 @@ Email Microservice is a simple and scalable email sending service developed usin
 
 At the moment there is an application that is consuming this service, it is, if you want to check it out.
 
-- 
-   ```bash
    https://github.com/Gablier-R/api-collections-movies
 
 
