@@ -25,6 +25,7 @@ When correctly implementing or configuring this microservice, it listens to cert
 ## Settings
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/Gablier-R/email-microservice.git
 
 2. Configure the homebroker (CloudAMQP):
